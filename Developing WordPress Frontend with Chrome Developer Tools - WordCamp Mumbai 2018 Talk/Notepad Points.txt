@@ -1,0 +1,72 @@
+
+- Console Tricks
+- Console Settings
+	- Network
+	- XMLHTTPRequests
+	- Show TimeStamps
+	- Preserve log
+
+- Elements 
+	- Editing Elements 
+	- Scroll in to View
+	- Break Point on
+	- Editing CSS
+	- Color Pallet
+	- Event Listener 
+	- Accessibility
+	- Element State Hover / Visited
+	- Count Number of Attendees on WC Mumbai Website (Check Properties)
+
+- Source
+	- Search in HTML
+	- File System
+	- Break Points
+	- Snippets http://bgrins.github.io/devtools-snippets/
+
+- Timeline
+	- Screen paint
+	- Js Profiling
+	- Memory
+
+- Network
+	- Status code
+	- waterfall
+	- content type
+	- Disable cache
+	- Capture Screen shot
+	- Show Ajax request (Rest API)
+	- Replay XHR
+	- Copy Image to DataURI
+	- Tiers of Speed
+	- Throttling Profiles
+	- Network Conditions (User Agents)
+
+Device Mode
+	- Preset Mobile devices
+	- Tiers of Speed
+
+Application
+	- Cookies management
+
+Sensors
+	- Geo locations
+	- Orientation
+	- Touch
+
+Rendering
+	- Emulate CSS
+
+Chrome Dev Settings 
+	- Rulers
+	
+
+Auditing
+	- Progressive web
+	- performance
+	- best practices
+	- accessibility 
+
+Chrome Canary
+chrome://flags 
+Dev tools Experiments
+
