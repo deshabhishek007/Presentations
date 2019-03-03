@@ -10,3 +10,4 @@ These are files from my public speaking opportunities.
 - WordCamp Kanpur 2018 Talk - [Gutenberg & Future of WordPress](https://2018.kanpur.wordcamp.org/session/gutenberg-and-future-of-wordpress/)
 - WordCamp Pokhara 2018 Talk - [Modern WordPress Development Environment](https://2018.pokhara.wordcamp.org/speaker/abhishek-deshpande/)
 - WordCamp Ahmedabad 2018 Talk - [Modern WordPress Development Environment](https://2018.ahmedabad.wordcamp.org/modern-wordpress-development-environment-by-abhishek-deshpande/)
+- WordCamp Kolkata 2019 Talk - [How to Prepare for the Resurrection of your Hacked WordPress website?](https://2019.kolkata.wordcamp.org/session/how-to-prepare-for-the-resurrection-of-your-hacked-wordpress-website/)
