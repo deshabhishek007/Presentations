@@ -11,3 +11,4 @@ These are files from my public speaking opportunities.
 - WordCamp Pokhara 2018 Talk - [Modern WordPress Development Environment](https://2018.pokhara.wordcamp.org/speaker/abhishek-deshpande/)
 - WordCamp Ahmedabad 2018 Talk - [Modern WordPress Development Environment](https://2018.ahmedabad.wordcamp.org/modern-wordpress-development-environment-by-abhishek-deshpande/)
 - WordCamp Kolkata 2019 Talk - [How to Prepare for the Resurrection of your Hacked WordPress website?](https://2019.kolkata.wordcamp.org/session/how-to-prepare-for-the-resurrection-of-your-hacked-wordpress-website/)
+- WordCamp Vadodara 2019 Talk - [Things I wish I knew when I started WordPress](https://2019.vadodara.wordcamp.org/things-i-wish-i-knew-when-i-started-wordpress-by-abhishek-deshpande/)
